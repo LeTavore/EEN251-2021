@@ -19,5 +19,9 @@ Controle de abertura ou fechamento das janelas e de fechamento da válvula princ
 
 
 Imagens do projeto:
-https://github.com/LeTavore/EEN251-2021/issues/1#issue-907744160
+Temperatura: ![MicrosoftTeams-image](https://user-images.githubusercontent.com/79606632/120247038-87fef900-c248-11eb-9b6a-77a30ea97202.png)
+Umidade: ![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/79606632/120247123-da401a00-c248-11eb-9618-c193151e7940.png)
+Gás:![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/79606632/120247107-cac0d100-c248-11eb-81ac-675f44f8f197.png)
+Dashboards: ![MicrosoftTeams-image (3)](https://user-images.githubusercontent.com/79606632/120247145-ea57f980-c248-11eb-8867-1b76ed50c064.png)
+![MicrosoftTeams-image (4)](https://user-images.githubusercontent.com/79606632/120247325-779b4e00-c249-11eb-9f46-161d2c9ac3bf.png)
 
