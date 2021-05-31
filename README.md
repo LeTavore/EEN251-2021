@@ -1,8 +1,8 @@
 # EEN251-2021: Microcontroladores e sistemas embarcados
 Este documento é relativo ao projeto semestral de microcontroladores e sistemas embarcados, onde foi feito o desenvolvimento de um projeto introdutório de automação residencial,
 com o intuito de controlar a temperatura e umidade ambientes, bem como quaisquer vazamentos de gás. 
-Dessa forma, os integrantes: Jean Carlo (18.00238-2) - https://github.com/JeanCarloTS, Arthur(18.00712-0) e Letícia (18.02509-9), do 4° ano de engenharia eletrônica), uniram esforços e conhecimentos adquiridos
-durante as aulas para criar tanto uma montagem física quanto uma lógica de programação utilizando o Node-red e uma plataforma de vizualização online utilizando o Ubidots. 
+Dessa forma, os integrantes: Jean Carlo (18.00238-2) - https://github.com/JeanCarloTS, Arthur(18.00712-0) - https://github.com/Askuke e Letícia (18.02509-9), do 4° ano de engenharia eletrônica), uniram esforços e conhecimentos adquiridos
+durante as aulas para criar tanto uma montagem física quanto uma lógica de programação utilizando o Node-red e uma plataforma de visualização online utilizando o Ubidots. 
 
 Os materiais utilizados neste projeto foram:
   - Raspberry-pi 3;
