@@ -9,3 +9,15 @@ Os materiais utilizados neste projeto foram:
   - Sensor DHT-11;
   - Botão; 
   - Jumpers.
+
+O projeto teve como ideias primordias:
+
+Monitoramento de temperatura e umidade:
+  -Controle de ar condicionado
+Monitoramento de vazamento de gás
+Controle de abertura ou fechamento das janelas e de fechamento da válvula principal, emissão de aviso para corpo de bombeiros e para moradores / funcionários saírem da casa / indústria.
+
+
+Imagens do projeto:
+https://github.com/LeTavore/EEN251-2021/issues/1#issue-907744160
+
